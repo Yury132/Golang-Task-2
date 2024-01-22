@@ -62,11 +62,11 @@ http://localhost:8080/uploads?size=100
 ```
 Указав в Body -> form-data -> "Key"="file" и "Value"="image.png"
 
-![alt text](https://github.com/Yury132/test-2/blob/main/forREADME/1.PNG?raw=true)
+![alt text](https://github.com/Yury132/Golang-Task-2/blob/main/forREADME/1.PNG?raw=true)
 
 Указав в Params -> "Key"="size" и "Value"="100"
 
-![alt text](https://github.com/Yury132/test-2/blob/main/forREADME/2.PNG?raw=true)
+![alt text](https://github.com/Yury132/Golang-Task-2/blob/main/forREADME/2.PNG?raw=true)
 
 - Используя Postman, получить данные о всех изображениях и соответствующих им миниатюрах, отправив GET запрос
 
@@ -74,7 +74,7 @@ http://localhost:8080/uploads?size=100
 http://localhost:8080/get-data
 ```
 
-![alt text](https://github.com/Yury132/test-2/blob/main/forREADME/3.PNG?raw=true)
+![alt text](https://github.com/Yury132/Golang-Task-2/blob/main/forREADME/3.PNG?raw=true)
 
 где:
 
